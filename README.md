@@ -6,19 +6,21 @@ Aktuell sind die offiziellen Universitätsemailadressen (~~`@uni-due.de`~~ oder 
 
 ### Telefon
 
-test
+- Vorübergehend: 01781455719 (während der normalen Bürozeiten).
 
 ### Email (Temporär)
 
-test
+- Allgemeine Fragen: [aks-uni-due@web.de](mailto:aks-uni-due@web.de)
+- Dr.-Ing. Birgit Köppen-Seliger: [birgit.koeppen-seliger.aks@web.de](mailto:birgit.koeppen-seliger.aks@web.de)
+- Dr.-Ing. Chris Louen: [chris.louen.aks@web.de](mailto:chris.louen.aks@web.de)
 
+**Die Emailadressen kommen von einem externen Anbieter in Deutschland. Bitte beachten Sie dieses bevor Sie sensible Informationen senden.**
 
-
-
+Größere Anhänge können über Sciebo ausgetauscht werden.
 
 ### Microsoft Teams
 
-test
+Das Team AKS Student dient uns für Ankündigungen. Wenn Sie Mitglied werden wollen, teilen Sie uns bitte Ihre Mailadresse mit.
 
 ---
 
@@ -26,24 +28,31 @@ test
 
 **Praktikum**
 
-test
+- Praktikum Regelungstechnik EIT (Köppen-Seliger)
+- Praktikum Nonlinear Control System (Obergfell)
+- Praktikum Model
+- Fernpraktikum Prozessautomatisierung (Louen)
+- Erstsemesterworkshop-AKS (Louen)
 
 **Vorlesung/Übung**
 
-test
+- Advance System and Control Theory (Ding/Zhou)
+- Digitale Regelung (Ding/Louen)
+- Nonlinear Control Systems (Ding/Zhu)
+- Prozessautomatisierung (Louen)
+- Robust Control (Ding/Salah)
 
 ### Präsenzveranstaltungen
 
-test
+Die Vorlesungen, Übungen und Praktika in Präsenz finden weiterhin statt. Evtl. Live-Streams können momentan nicht angeboten werden. Die Videostreams in Moodle sind nur im Intranet (Innerhalb des Netzwerks der Universität) z.B. über eduroam verfügbar.
 
 ### Fernpraktikum
 
-test
+Nehmen Sie bitte Kontakt zu dem Betreuenden Mitarbeiter auf.
 
 ### Materialien
 
-test
-
+Moodle ist im Intranet (Innerhalb des Netzwerks der Universität) z.B. über eduroam verfügbar. 
 
 ---
 
