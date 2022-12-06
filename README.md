@@ -47,9 +47,9 @@ Das Team AKS Student dient uns für Ankündigungen. Wenn Sie Mitglied werden wol
 
 Die Vorlesungen, Übungen und Praktika in Präsenz finden weiterhin statt. Evtl. Live-Streams können momentan nicht angeboten werden. Die Videostreams in Moodle sind nur im Intranet (Innerhalb des Netzwerks der Universität) z.B. über eduroam verfügbar.
 
-### Fernpraktikum
+### Fernpraktikum/Online Versuche
 
-Nehmen Sie bitte Kontakt zu dem Betreuenden Mitarbeiter auf.
+Nehmen Sie bitte Kontakt zu den Betreuenden Mitarbeitern auf.
 
 ### Materialien
 
