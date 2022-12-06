@@ -1,5 +1,7 @@
 # Automatisierung und Komplexe Systeme, Universität Duisburg-Essen
 
+[English](README_en.md)
+
 ## Kontakte
 
 Aktuell sind die offiziellen Universitätsemailadressen (~~`@uni-due.de`~~ oder ~~`@stud.uni-due.de`~~) und das Telefon nicht erreichbar. 
