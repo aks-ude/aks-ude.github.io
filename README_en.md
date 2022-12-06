@@ -1,6 +1,6 @@
 # Automatisierung und Komplexe Systeme, University Duisburg-Essen
 
-[[README]] German
+[German](README.md)
 
 ## Kontakte
 
