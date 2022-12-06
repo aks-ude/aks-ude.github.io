@@ -30,7 +30,7 @@ Das Team AKS Student dient uns für Ankündigungen. Wenn Sie Mitglied werden wol
 
 - Praktikum Regelungstechnik EIT (Köppen-Seliger)
 - Praktikum Nonlinear Control System (Obergfell)
-- Praktikum Model
+- Praktikum Modelling and Simulation of Dynamic Systems (Köppen-Seliger)
 - Fernpraktikum Prozessautomatisierung (Louen)
 - Erstsemesterworkshop-AKS (Louen)
 
@@ -39,6 +39,7 @@ Das Team AKS Student dient uns für Ankündigungen. Wenn Sie Mitglied werden wol
 - Advance System and Control Theory (Ding/Zhou)
 - Digitale Regelung (Ding/Louen)
 - Nonlinear Control Systems (Ding/Zhu)
+- Modelling and Simulation of Dynamic Systems (Köppen-Seliger)
 - Prozessautomatisierung (Louen)
 - Robust Control (Ding/Salah)
 
