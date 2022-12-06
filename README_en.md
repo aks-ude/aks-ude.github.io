@@ -53,6 +53,10 @@ The lectures, exercises and practical courses will continue to take place in per
 
 Please contact the supervisory staff.
 
+### Final theses and project works
+
+Please contact the supervisory staff.
+
 ### Materials
 
 Moodle is available on the intranet (within the university network) e.g. via eduroam. 
