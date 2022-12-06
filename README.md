@@ -51,7 +51,11 @@ Die Vorlesungen, Übungen und Praktika in Präsenz finden weiterhin statt. Evtl.
 
 ### Fernpraktikum/Online Versuche
 
-Nehmen Sie bitte Kontakt zu den Betreuenden Mitarbeitern auf.
+Nehmen Sie bitte Kontakt zu den betreuenden Mitarbeitern auf.
+
+### Abschluss- und Projektarbeiten
+
+Nehmen Sie bitte Kontakt zu den betreuenden Mitarbeitern auf.
 
 ### Materialien
 
