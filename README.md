@@ -63,4 +63,13 @@ Moodle ist im Intranet (Innerhalb des Netzwerks der Universität) z.B. über edu
 
 ---
 
+## Hilfreiche Links der Universität Duisburg-Essen
+
+- [Universität Duisburg-Essen](https://www.uni-due.org/fakultaeten/)
+- [Fakultät IW](https://www.fiw-ude.de/)
+- [Online-Master EIT](https://optobuss.de/online-master-eit/)
+- [Prüfungswesen](https://www.uni-due.org/studium/pruefungswesen/)
+
+---
+
 [Impressum](https://www.uni-due.org/impressum) | [Cookie-Richtlinie (EU)](https://www.uni-due.org/cookie-richtlinie-eu/) | [Datenschutzerklärung](https://www.uni-due.org/datenschutzerklaerung/)
