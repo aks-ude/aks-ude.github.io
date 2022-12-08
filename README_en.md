@@ -63,5 +63,14 @@ Moodle is available on the intranet (within the university network) e.g. via edu
 
 ---
 
+## Helpful links from the University Duisburg-Essen
+
+- [University Duisburg-Essen](https://www.uni-due.org/fakultaeten/)
+- [Faculty IW](https://www.fiw-ude.de/)
+- [Online-Master EIT](https://optobuss.de/online-master-eit/)
+- [Examination Office](https://www.uni-due.org/studium/pruefungswesen/)
+
+---
+
 [Impressum](https://www.uni-due.org/impressum) | [Cookie-Richtlinie (EU)](https://www.uni-due.org/cookie-richtlinie-eu/) | [Datenschutzerklärung](https://www.uni-due.org/datenschutzerklaerung/)
 
