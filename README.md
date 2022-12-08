@@ -1,3 +1,5 @@
+![Logo](fig/logo.svg){: width="20%"}
+
 # Automatisierung und Komplexe Systeme, Universität Duisburg-Essen
 
 [English](README_en.md)
