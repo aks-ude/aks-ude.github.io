@@ -10,7 +10,9 @@ Aktuell sind die offiziellen Universitätsemailadressen (~~`@uni-due.de`~~ oder 
 
 ### Telefon
 
-- Vorübergehend: 01781455719 (während der normalen Bürozeiten).
+- Sabine Bay (Seketeriat): 0203 379 3385
+- Dr.-Ing. Birgit Köppen-Seliger: 0203 379 2929
+- Dr.-Ing. Chris Louen: 0203 379 3380
 
 ### Email (Temporär)
 
