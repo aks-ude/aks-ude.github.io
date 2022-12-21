@@ -10,7 +10,9 @@ Currently, the official university email addresses (~~`@uni-due.de`~~ oder ~~`@s
 
 ### Phone
 
-- Temporary: 01781455719 (during normal office hours).
+- Sabine Bay (Seketeriat): 0203 379 3385
+- Dr.-Ing. Birgit Köppen-Seliger: 0203 379 2929
+- Dr.-Ing. Chris Louen: 0203 379 3380
 
 ### Email (Temporary)
 
