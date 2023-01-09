@@ -6,7 +6,7 @@
 
 ## Kontakte
 
-Aktuell sind die offiziellen Universitätsemailadressen (~~`@uni-due.de`~~ oder ~~`@stud.uni-due.de`~~) und das Telefon nicht erreichbar. 
+Die offiziellen Universitätsemailadressen (`@uni-due.de` oder `@stud.uni-due.de`) und das Telefon sind wieder erreichbar. Voraussetzung ist ein zurückgesetztes Passwort. 
 
 ### Telefon
 
