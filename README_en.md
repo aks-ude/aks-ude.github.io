@@ -6,7 +6,7 @@
 
 ## Kontakte
 
-Currently, the official university email addresses (~~`@uni-due.de`~~ oder ~~`@stud.uni-due.de`~~) and the telephone are not available. 
+The official university email addresses (`@uni-due.de` or `@stud.uni-due.de`) and the telephone are accessible again. The prerequisite is a password reset. 
 
 ### Phone
 
