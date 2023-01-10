@@ -1,4 +1,4 @@
-![Logo](fig/logo.svg){: width="20%"}
+![Logo](fig/logo.svg "Logo"){ width=20% }
 
 # Automatic Control and Complex Systems, University Duisburg-Essen
 
@@ -16,11 +16,10 @@ The official university email addresses (`@uni-due.de` or `@stud.uni-due.de`) an
 
 ### Email (Temporary)
 
-- General questions: [aks-uni-due@web.de](mailto:aks-uni-due@web.de)
-- Dr.-Ing. Birgit Köppen-Seliger: [birgit.koeppen-seliger.aks@web.de](mailto:birgit.koeppen-seliger.aks@web.de)
-- Dr.-Ing. Chris Louen: [chris.louen.aks@web.de](mailto:chris.louen.aks@web.de)
-
-**The email addresses come from an external provider in Germany. Please note this before sending sensitive information.**
+- Prof. Steven Ding: [steven.ding@uni-due.de](steven.ding@uni-due.de)
+- Sabine Bay  (Seketeriat): [sabnie.bay@uni-due.de](sabnie.bay@uni-due.de)
+- Dr.-Ing. Birgit Köppen-Seliger: [birgit.koeppen-seliger@uni-due.de](mailto:birgit.koeppen-seliger@uni-due.de)
+- Dr.-Ing. Chris Louen: [chris.louen@uni-due.de](chris.louen.@uni-due.de)
 
 Large attachments can be shared via Sciebo.
 
@@ -63,7 +62,7 @@ Please contact the supervisory staff.
 
 ### Materials
 
-Moodle is available on the intranet (within the university network) e.g. via eduroam. 
+Moodle is available again after password reset.
 
 ---
 
