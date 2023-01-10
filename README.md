@@ -1,4 +1,4 @@
-![Logo](fig/logo.svg){: width="20%"}
+![Logo](fig/logo.svg "Logo"){ width=20% }
 
 # Automatisierungstechnik und Komplexe Systeme, Universität Duisburg-Essen
 
@@ -14,13 +14,12 @@ Die offiziellen Universitätsemailadressen (`@uni-due.de` oder `@stud.uni-due.de
 - Dr.-Ing. Birgit Köppen-Seliger: 0203 379 2929
 - Dr.-Ing. Chris Louen: 0203 379 3380
 
-### Email (Temporär)
+### Email
 
-- Allgemeine Fragen: [aks-uni-due@web.de](mailto:aks-uni-due@web.de)
-- Dr.-Ing. Birgit Köppen-Seliger: [birgit.koeppen-seliger.aks@web.de](mailto:birgit.koeppen-seliger.aks@web.de)
-- Dr.-Ing. Chris Louen: [chris.louen.aks@web.de](mailto:chris.louen.aks@web.de)
-
-**Die Emailadressen kommen von einem externen Anbieter in Deutschland. Bitte beachten Sie dieses bevor Sie sensible Informationen senden.**
+- Prof. Steven Ding: [steven.ding@uni-due.de](steven.ding@uni-due.de)
+- Sabine Bay  (Seketeriat): [sabnie.bay@uni-due.de](sabnie.bay@uni-due.de)
+- Dr.-Ing. Birgit Köppen-Seliger: [birgit.koeppen-seliger@uni-due.de](mailto:birgit.koeppen-seliger@uni-due.de)
+- Dr.-Ing. Chris Louen: [chris.louen@uni-due.de](chris.louen.@uni-due.de)
 
 Größere Anhänge können über Sciebo ausgetauscht werden.
 
@@ -59,11 +58,11 @@ Nehmen Sie bitte Kontakt zu den betreuenden Mitarbeitern auf.
 
 ### Abschluss- und Projektarbeiten
 
-Nehmen Sie bitte Kontakt zu den betreuenden Mitarbeitern auf.
+Nehmen Sie bitte Kontakt zu den betreuenden Mitarbeitern auf. 
 
 ### Materialien
 
-Moodle ist im Intranet (Innerhalb des Netzwerks der Universität) z.B. über eduroam verfügbar. 
+Moodle ist nach zurückgesetztem Passwort wieder verfügbar.
 
 ---
 
