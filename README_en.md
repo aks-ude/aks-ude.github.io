@@ -1,4 +1,4 @@
-![Logo](fig/logo.svg "Logo"){ width=20% }
+![Logo](fig/logo.svg "Logo")
 
 # Automatic Control and Complex Systems, University Duisburg-Essen
 
