@@ -1,4 +1,4 @@
-![Logo](fig/logo.svg "Logo"){ width=20% }
+![Logo](fig/logo.svg "Logo")
 
 # Automatisierungstechnik und Komplexe Systeme, Universität Duisburg-Essen
 
