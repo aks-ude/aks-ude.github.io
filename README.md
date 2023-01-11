@@ -1,4 +1,4 @@
-![Logo](fig/logo.svg "Logo")
+![Logo](fig/logo.svg "Logo"){ width=20% }
 
 # Automatisierungstechnik und Komplexe Systeme, Universität Duisburg-Essen
 
@@ -57,6 +57,31 @@ Die Vorlesungen, Übungen und Praktika in Präsenz finden weiterhin statt. Evtl.
 Nehmen Sie bitte Kontakt zu den betreuenden Mitarbeitern auf.
 
 ### Abschluss- und Projektarbeiten
+
+#### Bachelorprojektarbeit
+
+Bitte senden Sie eine E-Mail an [birgit.koeppen-seliger@uni-due.de](mailto:birgit.koeppen-seliger@uni-due.de).
+
+#### Masterprojektarbeit
+
+Bitte senden Sie eine E-Mail an [chris.louen@uni-due.de](chris.louen.@uni-due.de).
+
+#### Abschlussarbeit
+
+**Interesse**
+
+Bitte schreiben Sie eine Mail mit einer Notenliste und einem Lebenslauf an [sabnie.bay@uni-due.de](sabnie.bay@uni-due.de) und [chris.louen@uni-due.de](chris.louen.@uni-due.de). Diese sollte die folgenden Daten enthalten.
+
+- Nachename:
+- Vorname:
+- Matrikelnummer:
+- Studiengang:
+- Art der angefragten Arbeit: 
+- Liste der in unserem Fachgebiet besuchten Veranstaltungen:
+- Relevante Vorkentnisse und Interessen:
+- Gewünschter Beginn der Arbeit:
+
+**Laufende**
 
 Nehmen Sie bitte Kontakt zu den betreuenden Mitarbeitern auf. 
 
