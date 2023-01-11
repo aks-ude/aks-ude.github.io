@@ -58,6 +58,31 @@ Please contact the supervisory staff.
 
 ### Final theses and project works
 
+#### Bachelor project
+
+Please send an email to [birgit.koeppen-seliger@uni-due.de](mailto:birgit.koeppen-seliger@uni-due.de).
+
+#### Master project
+
+Please send an email to [chris.louen@uni-due.de](chris.louen.@uni-due.de).
+
+#### Final theses
+
+**Interest**
+
+Please send an email with a transcript of records and a CV to [sabnie.bay@uni-due.de](sabnie.bay@uni-due.de) and [chris.louen@uni-due.de](chris.louen.@uni-due.de). This should contain the following data.
+
+- Last Name:
+- First Name:
+- Student ID :
+- Course of study:
+- Type of work requested: 
+- List of courses attended in our institute:
+- Relevant previous knowledge and interests:
+- Desired start of work:
+
+**Running**
+
 Please contact the supervisory staff.
 
 ### Materials
@@ -76,4 +101,3 @@ Moodle is available again after password reset.
 ---
 
 [Impressum](https://www.uni-due.org/impressum) | [Cookie-Richtlinie (EU)](https://www.uni-due.org/cookie-richtlinie-eu/) | [Datenschutzerklärung](https://www.uni-due.org/datenschutzerklaerung/)
-
